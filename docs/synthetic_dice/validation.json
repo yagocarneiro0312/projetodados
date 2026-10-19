@@ -1,0 +1,7801 @@
+{
+  "summary": {
+    "total": 408,
+    "before_correct": 295,
+    "after_correct": 408
+  },
+  "cases": [
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 0
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 15
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 30
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 45
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 60
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 75
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 90
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 105
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 135
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 150
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 165
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 180
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 195
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 210
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 225
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 240
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 255
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 270
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 285
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 300
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 315
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 330
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "six_full_turn",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 345
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 0
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 15
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 30
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 45
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 60
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 75
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 90
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 105
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 120
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 135
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 150
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 165
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 0
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 15
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 30
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 45
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 60
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 75
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 90
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 105
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 120
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 135
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 150
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 165
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 0
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 15
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 30
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 45
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 60
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 75
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 90
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 105
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 120
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 135
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 150
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 165
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 0
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 15
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 30
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 45
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 60
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 75
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 90
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 105
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 120
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 135
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 150
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 165
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 0
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 15
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 30
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 45
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 60
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 90
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 135
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 150
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 165
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 0
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 15
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 30
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 45
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 60
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 75
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 90
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 105
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 120
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 135
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 150
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 165
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 0
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 15
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 30
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 45
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 135
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 150
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 165
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 0
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 15
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 30
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 45
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 75
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 135
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 150
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 165
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 0
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 15
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 30
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 45
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 60
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 135
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 150
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 165
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 0
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 15
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 30
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 45
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 60
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 75
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 90
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 105
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 120
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 135
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 150
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 165
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 0
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 15
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 30
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 45
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 135
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 150
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 165
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 0
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 15
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 30
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 45
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 75
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 90
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 135
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 150
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 165
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 0
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 15
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 30
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 45
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 60
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 90
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 120
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 135
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 150
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 165
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 0
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 15
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 30
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 45
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 60
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 75
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 90
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 105
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 120
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 135
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 150
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 165
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 0
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 15
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 30
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 45
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 135
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 150
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 165
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 0
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 15
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 30
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 45
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 75
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 135
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 150
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 165
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 0
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 15
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 30
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 45
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 60
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 120
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 135
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 150
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 165
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 0
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 15
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 30
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 45
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 60
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 75
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 90
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 105
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 120
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 135
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 150
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 165
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 0
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 15
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 30
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 45
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 120
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 135
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 150
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 165
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 0
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 15
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 30
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 45
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 60
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 75
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 120
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 135
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 150
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 165
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 0
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 15
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 30
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 45
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 60
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 75
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 105
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 120
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 135
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 150
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 30,
+        "pip_radius": 0.1,
+        "angle": 165
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 0
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 15
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 30
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 45
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 60
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 75
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 90
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 105
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 120
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 135
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 150
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.11,
+        "angle": 165
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 0
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 15
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 30
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 45
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 75
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 120
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 135
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 150
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 36,
+        "pip_radius": 0.095,
+        "perspective": 0.6,
+        "blur": 1,
+        "angle": 165
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 0
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 15
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 30
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 45
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 60
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 75
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 90
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 105
+      },
+      "before": [],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 120
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 135
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 150
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "all_faces",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 42,
+        "pip_radius": 0.082,
+        "perspective": 1,
+        "blur": 0.8,
+        "angle": 165
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "center": [
+          130,
+          110
+        ],
+        "angle": 0,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "center": [
+          810,
+          120
+        ],
+        "angle": 35,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "center": [
+          170,
+          430
+        ],
+        "angle": 90,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "center": [
+          800,
+          420
+        ],
+        "angle": 145,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "center": [
+          130,
+          110
+        ],
+        "angle": 0,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "center": [
+          810,
+          120
+        ],
+        "angle": 35,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "center": [
+          170,
+          430
+        ],
+        "angle": 90,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "center": [
+          800,
+          420
+        ],
+        "angle": 145,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "center": [
+          130,
+          110
+        ],
+        "angle": 0,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "center": [
+          810,
+          120
+        ],
+        "angle": 35,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "center": [
+          170,
+          430
+        ],
+        "angle": 90,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "center": [
+          800,
+          420
+        ],
+        "angle": 145,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "center": [
+          130,
+          110
+        ],
+        "angle": 0,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "center": [
+          810,
+          120
+        ],
+        "angle": 35,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "center": [
+          170,
+          430
+        ],
+        "angle": 90,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "center": [
+          800,
+          420
+        ],
+        "angle": 145,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "center": [
+          130,
+          110
+        ],
+        "angle": 0,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "center": [
+          810,
+          120
+        ],
+        "angle": 35,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "center": [
+          170,
+          430
+        ],
+        "angle": 90,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "center": [
+          800,
+          420
+        ],
+        "angle": 145,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "center": [
+          130,
+          110
+        ],
+        "angle": 0,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "center": [
+          810,
+          120
+        ],
+        "angle": 35,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "center": [
+          170,
+          430
+        ],
+        "angle": 90,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "positions_and_low_contrast",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "center": [
+          800,
+          420
+        ],
+        "angle": 145,
+        "side": 46,
+        "background": 165,
+        "face": 205,
+        "noise": 1.2,
+        "perspective": 0.4
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 52.8439365851812,
+        "center": [
+          319.829096899207,
+          110.40041228601437
+        ],
+        "angle": 327.4722759978059,
+        "pip_radius": 0.08401401573220794,
+        "perspective": 0.06313138677388158,
+        "blur": 0.7017176502431595,
+        "face": 240,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 39.90077832287307,
+        "center": [
+          873.7780427708964,
+          437.42232194609846
+        ],
+        "angle": 129.05563569914938,
+        "pip_radius": 0.07436297048589302,
+        "perspective": 0.027125836887658406,
+        "blur": 0.6045897253515748,
+        "face": 241,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 51.60789144718073,
+        "center": [
+          416.6819105424392,
+          231.05818600921944
+        ],
+        "angle": 314.9678233132144,
+        "pip_radius": 0.08898473267049427,
+        "perspective": 0.3053981874739683,
+        "blur": 0.610166651778111,
+        "face": 214,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 56.038417418367914,
+        "center": [
+          398.4951335317543,
+          441.23924526552815
+        ],
+        "angle": 74.93159789180027,
+        "pip_radius": 0.07942950231663265,
+        "perspective": 0.209210269894461,
+        "blur": 0.4438580593459615,
+        "face": 235,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 44.16035865382135,
+        "center": [
+          479.7285685611014,
+          323.9555847867606
+        ],
+        "angle": 306.3997104608235,
+        "pip_radius": 0.09849353289984966,
+        "perspective": 0.1547181692804131,
+        "blur": 0.7567749065114218,
+        "face": 242,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 66.26589073435045,
+        "center": [
+          588.8477507548291,
+          201.136166492197
+        ],
+        "angle": 226.61504063106807,
+        "pip_radius": 0.08082636506429222,
+        "perspective": 0.21903181772426772,
+        "blur": 0.5415654965231788,
+        "face": 242,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 52.23458778418166,
+        "center": [
+          624.56349675862,
+          332.8911645777839
+        ],
+        "angle": 86.94496400509267,
+        "pip_radius": 0.0914931470283368,
+        "perspective": 0.07634415787868759,
+        "blur": 0.41076767243454027,
+        "face": 241,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 35.21479546390255,
+        "center": [
+          413.29967943306485,
+          337.3166689656534
+        ],
+        "angle": 138.25054992166085,
+        "pip_radius": 0.08861789169265583,
+        "perspective": 0.3994978597220461,
+        "blur": 0.6207235962553388,
+        "face": 210,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 48.96493118965843,
+        "center": [
+          304.56924047168764,
+          124.95350192624517
+        ],
+        "angle": 186.08537186729473,
+        "pip_radius": 0.07496667485779918,
+        "perspective": 0.3409862896168817,
+        "blur": 0.3358860411854031,
+        "face": 210,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 64.45353752664106,
+        "center": [
+          570.5071146740556,
+          212.01466594967457
+        ],
+        "angle": 276.0522219162257,
+        "pip_radius": 0.07780169750291233,
+        "perspective": 0.13249224653350916,
+        "blur": 0.7119030756212805,
+        "face": 242,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 47.833936921349604,
+        "center": [
+          426.5676216630972,
+          176.2975147098548
+        ],
+        "angle": 54.69966931729426,
+        "pip_radius": 0.070826498358808,
+        "perspective": 0.21552377683134544,
+        "blur": 0.32578922390269316,
+        "face": 209,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 62.34559685528902,
+        "center": [
+          202.31417836902233,
+          430.85734489674303
+        ],
+        "angle": 323.65735924909393,
+        "pip_radius": 0.09617177784094019,
+        "perspective": 0.2382047401459063,
+        "blur": 0.5857740560646155,
+        "face": 213,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 58.279529890435555,
+        "center": [
+          249.19001722740603,
+          149.4546691273793
+        ],
+        "angle": 29.32471852404984,
+        "pip_radius": 0.09460550692386072,
+        "perspective": 0.46660839644448965,
+        "blur": 0.7174163774797017,
+        "face": 211,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 51.74592369046897,
+        "center": [
+          382.81795556311477,
+          376.18446661547847
+        ],
+        "angle": 168.4342615409757,
+        "pip_radius": 0.08374769606056263,
+        "perspective": 0.004955469994663564,
+        "blur": 0.4469688146918116,
+        "face": 222,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 44.148556124369016,
+        "center": [
+          607.9301130788151,
+          289.9531889978707
+        ],
+        "angle": 216.01221953013157,
+        "pip_radius": 0.09169921141258627,
+        "perspective": 0.36335257167869167,
+        "blur": 0.5895710500290463,
+        "face": 244,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 45.92334288587584,
+        "center": [
+          471.84347876154123,
+          340.61418655662624
+        ],
+        "angle": 217.17103924492227,
+        "pip_radius": 0.0986388001760546,
+        "perspective": 0.4328730423930727,
+        "blur": 0.5222265694188131,
+        "face": 242,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 50.42708388962615,
+        "center": [
+          266.3393994751983,
+          248.6059393432989
+        ],
+        "angle": 165.12246895365715,
+        "pip_radius": 0.09330172826608789,
+        "perspective": 0.09184223307975914,
+        "blur": 0.7397161010477016,
+        "face": 220,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 61.56327829551941,
+        "center": [
+          479.658291996649,
+          264.47712441379815
+        ],
+        "angle": 101.23932852810849,
+        "pip_radius": 0.08986999869960785,
+        "perspective": 0.035292790628195014,
+        "blur": 0.36818098110478564,
+        "face": 241,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 51.98003896824612,
+        "center": [
+          884.5559929018424,
+          439.90527666185716
+        ],
+        "angle": 210.20191763673492,
+        "pip_radius": 0.08435340239974876,
+        "perspective": 0.16563951291652107,
+        "blur": 0.5489305855873018,
+        "face": 212,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 51.382213342286256,
+        "center": [
+          236.63657966582005,
+          111.19708666941871
+        ],
+        "angle": 53.33925205942201,
+        "pip_radius": 0.08648468671042439,
+        "perspective": 0.39642671532724033,
+        "blur": 0.5490768133048657,
+        "face": 212,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 43.995395964276966,
+        "center": [
+          256.7201499094487,
+          226.40125194845663
+        ],
+        "angle": 229.1866452386953,
+        "pip_radius": 0.07343717992104974,
+        "perspective": 0.3062452278239586,
+        "blur": 0.3842513530114297,
+        "face": 212,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 67.64893462760725,
+        "center": [
+          548.506958684542,
+          296.8860300867947
+        ],
+        "angle": 288.7596971258885,
+        "pip_radius": 0.08693432744553108,
+        "perspective": 0.4207547083058515,
+        "blur": 0.7321951977276095,
+        "face": 241,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 54.92985129151373,
+        "center": [
+          511.7731107026655,
+          252.86543204912377
+        ],
+        "angle": 187.3792628039917,
+        "pip_radius": 0.09030825507232228,
+        "perspective": 0.21178292363886975,
+        "blur": 0.7271098099972046,
+        "face": 216,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 63.29823166201386,
+        "center": [
+          183.67667256357643,
+          353.025429436215
+        ],
+        "angle": 38.59347487075263,
+        "pip_radius": 0.09166529860108026,
+        "perspective": 0.18250851182635652,
+        "blur": 0.5876289897136311,
+        "face": 245,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 41.00955048652544,
+        "center": [
+          124.49623614596373,
+          137.4822628265917
+        ],
+        "angle": 45.276497864805634,
+        "pip_radius": 0.07060265916865324,
+        "perspective": 0.37009602579453693,
+        "blur": 0.7721087247149695,
+        "face": 219,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 51.13190538983589,
+        "center": [
+          451.59420377559167,
+          93.80135292028842
+        ],
+        "angle": 264.7784071006041,
+        "pip_radius": 0.08542756632512018,
+        "perspective": 0.42064852716591106,
+        "blur": 0.30211859829040566,
+        "face": 206,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 43.60755081910273,
+        "center": [
+          337.19357052342616,
+          248.32446381614423
+        ],
+        "angle": 257.7799195473392,
+        "pip_radius": 0.08026442010706024,
+        "perspective": 0.42434672196702444,
+        "blur": 0.5528999197524207,
+        "face": 210,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 60.71576378189245,
+        "center": [
+          308.57014826411546,
+          256.2347762654431
+        ],
+        "angle": 301.90688547030686,
+        "pip_radius": 0.08591414917903555,
+        "perspective": 0.4409903852837616,
+        "blur": 0.4366492625870621,
+        "face": 207,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 41.51466305695432,
+        "center": [
+          689.9712890792067,
+          118.95778238054336
+        ],
+        "angle": 27.813124723209516,
+        "pip_radius": 0.08841283913701248,
+        "perspective": 0.2806611115416847,
+        "blur": 0.600544064725412,
+        "face": 218,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 40.898302146025316,
+        "center": [
+          756.7728566639955,
+          251.09247378972697
+        ],
+        "angle": 319.7818158467308,
+        "pip_radius": 0.09798593007371742,
+        "perspective": 0.07767393580775828,
+        "blur": 0.7695383685351738,
+        "face": 210,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 35.11286275565529,
+        "center": [
+          734.9666684019143,
+          410.84211438459545
+        ],
+        "angle": 118.12463026562185,
+        "pip_radius": 0.09431501528573401,
+        "perspective": 0.3340622954396381,
+        "blur": 0.38544633863001365,
+        "face": 222,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 57.50544531277822,
+        "center": [
+          265.1168260924396,
+          331.5938544880015
+        ],
+        "angle": 22.53036772895772,
+        "pip_radius": 0.08770146123554327,
+        "perspective": 0.2931742250682486,
+        "blur": 0.4598418573812647,
+        "face": 244,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 49.385872598899965,
+        "center": [
+          855.999874662782,
+          352.66513061725396
+        ],
+        "angle": 68.27944793318446,
+        "pip_radius": 0.0901381851469759,
+        "perspective": 0.31588245694196815,
+        "blur": 0.4600558178105116,
+        "face": 228,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 46.844018167657964,
+        "center": [
+          578.6831522220155,
+          175.8598361820993
+        ],
+        "angle": 176.11071490634114,
+        "pip_radius": 0.09953366404191707,
+        "perspective": 0.007696426568096382,
+        "blur": 0.3700648520349684,
+        "face": 206,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 40.0353008732796,
+        "center": [
+          542.3119163690224,
+          249.8026582735448
+        ],
+        "angle": 11.534361394993073,
+        "pip_radius": 0.09177847154335621,
+        "perspective": 0.3433655812351555,
+        "blur": 0.6351898201334406,
+        "face": 216,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 64.49867336474318,
+        "center": [
+          777.6751077500305,
+          148.85344760080494
+        ],
+        "angle": 135.22709506479876,
+        "pip_radius": 0.08548887484461269,
+        "perspective": 0.14442965865828677,
+        "blur": 0.6467000760502302,
+        "face": 238,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36.56900834282134,
+        "center": [
+          437.2578588161604,
+          454.3335594773811
+        ],
+        "angle": 346.33304484871144,
+        "pip_radius": 0.07839026189356407,
+        "perspective": 0.05240011403545436,
+        "blur": 0.4334532775899907,
+        "face": 215,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 52.032164278211496,
+        "center": [
+          120.92393013492453,
+          420.6894346330907
+        ],
+        "angle": 22.316149447605085,
+        "pip_radius": 0.07518940375217958,
+        "perspective": 0.3534420307844016,
+        "blur": 0.7019539914567517,
+        "face": 238,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 53.040936376961746,
+        "center": [
+          687.3156103970234,
+          167.9741947926034
+        ],
+        "angle": 325.60648225368016,
+        "pip_radius": 0.07595590354482923,
+        "perspective": 0.03201797916428689,
+        "blur": 0.4297270727911568,
+        "face": 228,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 36.437419771541535,
+        "center": [
+          786.5145907228539,
+          212.9366561628909
+        ],
+        "angle": 143.95101024326092,
+        "pip_radius": 0.07684131046783604,
+        "perspective": 0.26811247091036833,
+        "blur": 0.5498552988575911,
+        "face": 220,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 44.90922844450679,
+        "center": [
+          381.09534644123465,
+          280.53179425043595
+        ],
+        "angle": 275.0992662983892,
+        "pip_radius": 0.07428587357132371,
+        "perspective": 0.27787329508247627,
+        "blur": 0.3518506578212126,
+        "face": 234,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 58.03233727464903,
+        "center": [
+          740.5614432886949,
+          99.91378596126562
+        ],
+        "angle": 140.6381012231348,
+        "pip_radius": 0.07227522522914813,
+        "perspective": 0.3212160751264937,
+        "blur": 0.44677285753057666,
+        "face": 224,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 61.87957770622018,
+        "center": [
+          678.6663597656038,
+          208.4364878130629
+        ],
+        "angle": 213.43265679039433,
+        "pip_radius": 0.089864434902621,
+        "perspective": 0.11222004862086893,
+        "blur": 0.364160276518153,
+        "face": 222,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 42.75371519940578,
+        "center": [
+          793.420916827932,
+          370.67179361957886
+        ],
+        "angle": 28.208718854533124,
+        "pip_radius": 0.079560677050593,
+        "perspective": 0.15559023031950975,
+        "blur": 0.5989414504742344,
+        "face": 238,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 48.75422813403715,
+        "center": [
+          162.33487996048558,
+          306.5451931645288
+        ],
+        "angle": 266.1882805442564,
+        "pip_radius": 0.07430888461706976,
+        "perspective": 0.1631990761867066,
+        "blur": 0.6662139884572926,
+        "face": 212,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 65.3859219720797,
+        "center": [
+          749.6632939623283,
+          133.0201411677217
+        ],
+        "angle": 340.0671465678956,
+        "pip_radius": 0.08099154618738426,
+        "perspective": 0.3021916408619275,
+        "blur": 0.3913763895849257,
+        "face": 243,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 51.742814176823366,
+        "center": [
+          543.155364899178,
+          288.6782282476911
+        ],
+        "angle": 304.0401434970236,
+        "pip_radius": 0.08040565481178152,
+        "perspective": 0.3495344278605847,
+        "blur": 0.32461097079121326,
+        "face": 211,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 40.08727773155615,
+        "center": [
+          262.2176072820986,
+          451.3932098713237
+        ],
+        "angle": 34.80846581401054,
+        "pip_radius": 0.08680960789221591,
+        "perspective": 0.4766679583188174,
+        "blur": 0.3706701753903211,
+        "face": 208,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 36.39947140048782,
+        "center": [
+          678.196262805191,
+          362.3715977690338
+        ],
+        "angle": 16.153452112290072,
+        "pip_radius": 0.09102815043189288,
+        "perspective": 0.04029138576327668,
+        "blur": 0.6977899800887298,
+        "face": 232,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 62.33418892302698,
+        "center": [
+          865.0209872131122,
+          257.56807379680447
+        ],
+        "angle": 233.96189923750498,
+        "pip_radius": 0.08366702676233548,
+        "perspective": 0.2910116704954505,
+        "blur": 0.7096100333426416,
+        "face": 207,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 62.05322552583223,
+        "center": [
+          686.4545639267023,
+          90.73891479005457
+        ],
+        "angle": 313.66913327438283,
+        "pip_radius": 0.09161071783243858,
+        "perspective": 0.14179651188131803,
+        "blur": 0.6450874538855793,
+        "face": 215,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 44.648477587816515,
+        "center": [
+          350.3628721711235,
+          406.55446104767026
+        ],
+        "angle": 349.053785043772,
+        "pip_radius": 0.08050609843858937,
+        "perspective": 0.18174701164253282,
+        "blur": 0.6736290994829223,
+        "face": 236,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 46.58084384252373,
+        "center": [
+          259.60577487500495,
+          329.03138765714834
+        ],
+        "angle": 270.7269636983483,
+        "pip_radius": 0.09029072712466074,
+        "perspective": 0.13790603813508678,
+        "blur": 0.7635946860489449,
+        "face": 212,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 52.06091526347406,
+        "center": [
+          197.49155841726838,
+          96.6969639303395
+        ],
+        "angle": 252.74839760748262,
+        "pip_radius": 0.07405483296314304,
+        "perspective": 0.020147834382737984,
+        "blur": 0.5332966249932172,
+        "face": 223,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 35.72941884459903,
+        "center": [
+          426.0399942726201,
+          134.05036197081216
+        ],
+        "angle": 97.29537548189505,
+        "pip_radius": 0.09332911332979534,
+        "perspective": 0.341308064191269,
+        "blur": 0.3573004275407108,
+        "face": 222,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 61.77783746762918,
+        "center": [
+          234.9505070422882,
+          291.3987526343623
+        ],
+        "angle": 249.40624507831546,
+        "pip_radius": 0.07165643222046895,
+        "perspective": 0.2442681471608339,
+        "blur": 0.33420226112674944,
+        "face": 235,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 40.70554714571342,
+        "center": [
+          638.8239833773347,
+          209.0973442038802
+        ],
+        "angle": 3.4711401295904487,
+        "pip_radius": 0.07716074071083978,
+        "perspective": 0.4105102660642005,
+        "blur": 0.41230021081611873,
+        "face": 238,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 37.02434105958684,
+        "center": [
+          649.8427445031637,
+          330.6928064016554
+        ],
+        "angle": 166.7632402146049,
+        "pip_radius": 0.08295866195408805,
+        "perspective": 0.1364614786441069,
+        "blur": 0.4850611568158295,
+        "face": 225,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 45.64012428983031,
+        "center": [
+          413.88720106092075,
+          293.40875679019416
+        ],
+        "angle": 199.6778229318,
+        "pip_radius": 0.09418495865339782,
+        "perspective": 0.0689493133716646,
+        "blur": 0.6001642295780332,
+        "face": 239,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 48.71424674292381,
+        "center": [
+          559.5623094977382,
+          412.78887023635497
+        ],
+        "angle": 322.3073601107941,
+        "pip_radius": 0.09372341798130762,
+        "perspective": 0.31799930620060196,
+        "blur": 0.3636229828148021,
+        "face": 226,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 42.66294603343015,
+        "center": [
+          569.1771927533374,
+          285.58666533779274
+        ],
+        "angle": 328.5274014678209,
+        "pip_radius": 0.09749359181235881,
+        "perspective": 0.23944619252094618,
+        "blur": 0.4527066968845288,
+        "face": 221,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 36.71008413988266,
+        "center": [
+          147.96410011846046,
+          464.6223030413319
+        ],
+        "angle": 245.35706985257477,
+        "pip_radius": 0.09938620576784787,
+        "perspective": 0.2591191856757249,
+        "blur": 0.5985724643597174,
+        "face": 225,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 61.11657659096359,
+        "center": [
+          780.7481238249362,
+          265.81170108936016
+        ],
+        "angle": 322.0734609109481,
+        "pip_radius": 0.07567944468501024,
+        "perspective": 0.025559630714507342,
+        "blur": 0.4227059982567548,
+        "face": 226,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 66.56214827368777,
+        "center": [
+          424.60534602140336,
+          464.9963549495901
+        ],
+        "angle": 120.21739632414501,
+        "pip_radius": 0.09958335512469715,
+        "perspective": 0.3460282732097953,
+        "blur": 0.6775083184325671,
+        "face": 237,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 43.63190715682161,
+        "center": [
+          230.21428620726022,
+          268.9097540136627
+        ],
+        "angle": 212.80503440988258,
+        "pip_radius": 0.08183560240697822,
+        "perspective": 0.006989618656079166,
+        "blur": 0.340055175902734,
+        "face": 208,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 35.05143004489353,
+        "center": [
+          351.03181136266124,
+          102.2213993983461
+        ],
+        "angle": 205.2308243891604,
+        "pip_radius": 0.08607764300167073,
+        "perspective": 0.12379475016125713,
+        "blur": 0.7826731602369993,
+        "face": 244,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        1
+      ],
+      "settings": {
+        "side": 49.7437757082328,
+        "center": [
+          394.32291669523846,
+          224.1414347187686
+        ],
+        "angle": 205.64737538929532,
+        "pip_radius": 0.0968265828245647,
+        "perspective": 0.36468882251959633,
+        "blur": 0.7977871720923104,
+        "face": 233,
+        "noise": 0.8
+      },
+      "before": [
+        1
+      ],
+      "after": [
+        1
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        2
+      ],
+      "settings": {
+        "side": 47.796989190666835,
+        "center": [
+          264.6529220672517,
+          143.0787231899104
+        ],
+        "angle": 259.53133067055177,
+        "pip_radius": 0.0845735521570561,
+        "perspective": 0.12037353598588318,
+        "blur": 0.32192470536247747,
+        "face": 234,
+        "noise": 0.8
+      },
+      "before": [
+        2
+      ],
+      "after": [
+        2
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        3
+      ],
+      "settings": {
+        "side": 38.874209214993776,
+        "center": [
+          92.49735208431477,
+          135.67112899218262
+        ],
+        "angle": 158.96915463800647,
+        "pip_radius": 0.09403089022155173,
+        "perspective": 0.302948709743538,
+        "blur": 0.7672602154870565,
+        "face": 239,
+        "noise": 0.8
+      },
+      "before": [
+        3
+      ],
+      "after": [
+        3
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        4
+      ],
+      "settings": {
+        "side": 63.897820656544965,
+        "center": [
+          654.6572728920692,
+          160.89783986184656
+        ],
+        "angle": 221.58591249314628,
+        "pip_radius": 0.08625777586866056,
+        "perspective": 0.2632360093843864,
+        "blur": 0.45688555710652695,
+        "face": 211,
+        "noise": 0.8
+      },
+      "before": [
+        4
+      ],
+      "after": [
+        4
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        5
+      ],
+      "settings": {
+        "side": 54.50351837270739,
+        "center": [
+          520.2040557624445,
+          299.05219566319295
+        ],
+        "angle": 141.54163793179168,
+        "pip_radius": 0.09270455746365373,
+        "perspective": 0.4093412362333139,
+        "blur": 0.5567482293488495,
+        "face": 235,
+        "noise": 0.8
+      },
+      "before": [
+        5
+      ],
+      "after": [
+        5
+      ]
+    },
+    {
+      "group": "seeded_variations",
+      "expected": [
+        6
+      ],
+      "settings": {
+        "side": 48.53123514167927,
+        "center": [
+          617.8210254668651,
+          269.2507898352908
+        ],
+        "angle": 338.0867059392886,
+        "pip_radius": 0.08097555765261683,
+        "perspective": 0.1371159073802241,
+        "blur": 0.6848183219267048,
+        "face": 205,
+        "noise": 0.8
+      },
+      "before": [
+        6
+      ],
+      "after": [
+        6
+      ]
+    }
+  ]
+}
